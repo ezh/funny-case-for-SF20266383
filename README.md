@@ -1,6 +1,6 @@
-funny-case-for-SF19292995
+funny-case-for-SF20266383
 =========================
 
-http://stackoverflow.com/questions/19292995/sbt-0-13-task-dependson
+http://stackoverflow.com/questions/20148404/make-tests-in-multi-project-sbt-projects-run-only-if-tests-pass-in-dependant-pro/20266383
 
 Yup, just for fun.
